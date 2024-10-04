@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897958778102",
+    "project_id": "ventadfrutas-5134c",
+    "storage_bucket": "ventadfrutas-5134c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897958778102:android:0bf469d9475fb3609888d7",
+        "android_client_info": {
+          "package_name": "com.example.ventadfrutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdu0GDaDMnE2AdT2NqWgC0Us_daBI5mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
